@@ -6,9 +6,6 @@ LTspice schematics from my electronics laboratory coursework at Istanbul Technic
 
 Schematics from the Introduction to Electronics Laboratory. EXP1.1 to EXP1.5 are diode circuits (single and double diode configurations), and EXP1.5 adds a Zener diode, an NPN transistor and a polarized capacitor. EXP4.1, EX4.2, EXP4.3, EXP4.4 and EXP4.5 are the linear operational amplifier applications of Experiment 4, for example an inverting amplifier simulated with a 100 mV, 1 kHz input. 5.5 and Draft4 belong to Experiment 5, the non-linear operational amplifier applications, and use op-amps with Zener diodes.
 
-## rlc-transient-ltspice
-
-Schematics from the Electronic Design Techniques lab, Experiment 5, on the transient behaviour of RC, RL and RLC circuits: exp5 A is an RC circuit, exp5 B an RL circuit, and exp5 C a series RLC circuit, each driven by a voltage source.
 
 ## Notes
 
